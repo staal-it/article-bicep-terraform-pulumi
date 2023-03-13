@@ -1,0 +1,3 @@
+name: pulumi-article
+runtime: dotnet
+description: An example in C# showing how to create a Azure Web App with a custom domain on Cloudflare

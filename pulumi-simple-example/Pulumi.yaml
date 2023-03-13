@@ -1,0 +1,3 @@
+name: pulumi-simple-example
+runtime: dotnet
+description: An example in C# showing how to create an Azure Storage Account

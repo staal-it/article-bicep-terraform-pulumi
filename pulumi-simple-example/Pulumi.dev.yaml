@@ -1,0 +1,4 @@
+config:
+  azure-native:location: westeurope
+  pulumi-simple-example:resourceGroupName: rg-pulumi-article
+  pulumi-simple-example:storageAccountName: pulumi-article
